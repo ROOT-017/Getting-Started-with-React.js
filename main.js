@@ -28,7 +28,7 @@ root.render(e(LikeButton));
 //console.log("As A dev learn to use debugger instead of console to debogg your code")
 //console.log("As A dev learn to use debugger instead of console to debogg your code")
 //console.log("As A dev learn to use debugger instead of console to debogg your code")
-console.log("As A dev learn to use debugger instead of console to debogg your code")
+//console.log("As A dev learn to use debugger instead of console to debogg your code")
 console.log("As A dev learn to use debugger instead of console to debogg your code")
 console.log("As A dev learn to use debugger instead of console to debogg your code")
 console.log("As A dev learn to use debugger instead of console to debogg your code")
