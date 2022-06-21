@@ -33,3 +33,4 @@ console.log("As A dev learn to use debugger instead of console to debug your cod
 console.log("As A dev learn to use debugger instead of console to debug your code")
 console.log("As A dev learn to use debugger instead of console to debug your code")
 console.log("As A dev learn to use debugger instead of console to debug your code")
+console.log("As A dev learn to use debugger instead of console to debug your code")
